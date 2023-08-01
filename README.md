@@ -25,6 +25,3 @@ This is open source project based on ''Dungeon'' game engine developed some year
 Graphics provided by graphics clients, like ''Dungeon.Monogame'' in this repository. Previously, there was graphical remake of console rogue-like game.
 Original console game available on 'master' branch. Remake available on 'extract' (latest build) and 'monogame' (stable build), but have issues with compilation.
 Current game hosted on Dungeon12 project.
-
-# Realtime Mockup
-![Realtime mockup screenshot](/Misc/Screenshot11.05.2023_2225563035.jpg?raw=true "Realtime mockup screenshot")
